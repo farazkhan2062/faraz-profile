@@ -1,4 +1,4 @@
-# faraz-profile
+# farazkhan2062
 <body>
   <div align="center">
     <h1> Hi there, I'm Hammad Sheikh👋<a href="https://hammad-air.github.io/hammad/"></h1>
